@@ -19,9 +19,9 @@ allprojects {
   repositories {
     jcenter()
     google()
-    maven {
-      url 'https://dl.bintray.com/mazaiting/Tool'
-    }
+//    maven {
+//      url 'https://dl.bintray.com/mazaiting/Tool'
+//    }
   }
   //加上这些
   tasks.withType(Javadoc) {
