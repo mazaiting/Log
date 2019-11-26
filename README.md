@@ -1,5 +1,5 @@
 # Log
-The simplest log print in history
+The simplest log print in history, 已弃用. 改用[EasyAndroid](https://github.com/mazaiting/EasyAndroid)
 
 # 使用
 - 简单使用
